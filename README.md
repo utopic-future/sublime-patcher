@@ -1,5 +1,4 @@
 # Sublime Text / Sublime Merge license patcher
-
 > [!IMPORTANT]
 > This project is currently undergoing a complete rewrite in **Rust**.  
 > During this period, **issue triage and support are paused**.  
